@@ -1,0 +1,9 @@
+Data preprocessing and binary classification.
+Titanic dataset.
+Used models:
+- Knn
+- Decision tree
+- SVM
+- Random forest
+- Logistic regression
+GridSearchCV + Cross validation for search the best params

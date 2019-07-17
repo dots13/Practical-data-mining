@@ -1,0 +1,6 @@
+Segmentation of e-shop customers
+A popular approach is for customer segmentation is RFM, which means:
+Recency: Number of days since last purchase (last date in customer's dataset)
+Frequency: Number of purchases. Sometimes customers with a single purchase are skipped. For simplicity, however, we leave them here.
+Monetary: The total amount that the customer spent.
+In this work used RFM with modifications and then K-means algorithm for clustering.

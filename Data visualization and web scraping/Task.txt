@@ -1,0 +1,3 @@
+Data visualization and web scraping
+As part of this task, you must acquire web scraping tools and then process and visualize the data.
+Your task will be to download and process candidate data in previous European Parliament elections.
